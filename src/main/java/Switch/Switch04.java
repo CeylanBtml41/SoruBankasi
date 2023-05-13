@@ -1,3 +1,5 @@
+package Switch;
+
 public class Switch04 {
 
     public static void main(String[] args) {

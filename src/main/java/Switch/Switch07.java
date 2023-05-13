@@ -1,3 +1,5 @@
+package Switch;
+
 import java.util.Scanner;
 
 public class Switch07 {

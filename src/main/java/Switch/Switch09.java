@@ -1,3 +1,5 @@
+package Switch;
+
 public class Switch09 {
 
 
@@ -35,6 +37,8 @@ Not: Geliştirici konsolunda enum oluşturmalısınız
                 break;
             default:
                 System.out.println("Geçersiz tarayıcı");
+                        //
+                        
 
         }
     }
